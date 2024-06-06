@@ -1,0 +1,247 @@
+body {
+    background-color:#cccccc; 
+    font-family: sans-serif
+}
+
+header {
+    background-color:lightgrey;
+}
+
+h1 {
+    text-align:center;
+    font-size: 50px;
+    margin: 10px;
+}
+
+h2{
+    text-align: center;
+    font-size:30px;
+    border-bottom: 2px solid black;
+    padding-bottom: 5px 
+}
+
+h3 {
+    text-align: justify;
+    font-size: 23px;
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+}
+
+h4 {
+
+    font-size: 25px;
+    background-color: rgb(183, 145, 56);
+    color: white;
+    border: 3px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+    margin: 40px;
+}
+
+h5 {
+    text-align: center;
+    font-size: 25px;
+    background-color: darkgray;
+    color: white;
+}
+
+li {
+    text-align: justify;
+    font-size: 18px;
+    background-color: rgb(154, 154, 154);
+    border:1px solid lightgray;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+p {
+  font-size: 15px;
+  text-align: justify;  
+}
+
+main p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+main{
+    text-align:center; 
+    font-size:20px
+}
+
+table, tr {
+    border:1px solid black;
+    border-collapse:collapse;
+    font-size:20px;
+    text-align: justify;
+    margin: auto;
+}
+
+
+footer {
+    background-color:lightgrey;
+    font-size:15px
+}
+
+.impar {
+    background-color:white;
+}
+.inicio{
+    background-color:darkgoldenrod;
+    color:white;
+}  
+
+.par {
+    background-color:#fcefcf;
+    color:black;
+}
+
+header img {
+    padding: 0px 50px 0px 0px;
+}
+
+nav a{
+    text-align: justify;
+    font-size: 23px;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+}
+nav {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: white;
+}
+.logo {
+    padding: 0px;
+}body {
+    background-color:#cccccc; 
+    font-family: sans-serif
+}
+
+header {
+    background-color:lightgrey;
+}
+
+h1 {
+    text-align:center;
+    font-size: 50px;
+    margin: 10px;
+}
+
+h2{
+    text-align: center;
+    font-size:30px;
+    border-bottom: 2px solid black;
+    padding-bottom: 5px 
+}
+
+h3 {
+    text-align: justify;
+    font-size: 23px;
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+}
+
+h4 {
+
+    font-size: 25px;
+    background-color: rgb(183, 145, 56);
+    color: white;
+    border: 3px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+    margin: 40px;
+}
+
+h5 {
+    text-align: center;
+    font-size: 25px;
+    background-color: darkgray;
+    color: white;
+}
+
+li {
+    text-align: justify;
+    font-size: 18px;
+    background-color: rgb(154, 154, 154);
+    border:1px solid lightgray;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+p {
+  font-size: 15px;
+  text-align: justify;  
+}
+
+main p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+main{
+    text-align:center; 
+    font-size:20px
+}
+
+table, tr {
+    border:1px solid black;
+    border-collapse:collapse;
+    font-size:20px;
+    text-align: justify;
+    margin: auto;
+}
+
+
+footer {
+    background-color:lightgrey;
+    font-size:15px
+}
+
+.impar {
+    background-color:white;
+}
+.inicio{
+    background-color:darkgoldenrod;
+    color:white;
+}  
+
+.par {
+    background-color:#fcefcf;
+    color:black;
+}
+
+header img {
+    padding: 0px 50px;
+}
+
+nav a{
+    text-align: justify;
+    font-size: 23px;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+}
+.menu {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: white;
+}
+.logo {
+    padding: 0px;
+}
